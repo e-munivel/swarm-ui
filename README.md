@@ -1,6 +1,6 @@
 [![swarmpit](https://raw.githubusercontent.com/swarmpit/swarmpit/master/resources/public/img/logo.svg?sanitize=true)](https://swarmpit.io)
 
-Lightweight mobile-friendly Docker Swarm management UI
+Lightweight mobile-friendly Docker Swarm Management UI
 
 [![version](https://img.shields.io/github/release-pre/swarmpit/swarmpit.svg)](https://github.com/swarmpit/swarmpit/releases) 
 [![gitter](https://badges.gitter.im/trezor/community.svg)](https://gitter.im/swarmpit_io/swarmpit) 
